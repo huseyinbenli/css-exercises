@@ -52,6 +52,7 @@ We separated it out here to make it extra clear what has changed. */
 .button-container {
   text-align: center;
   padding: 8px;
+  text-align: center;
 }
 
 button {
